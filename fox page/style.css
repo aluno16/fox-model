@@ -17,7 +17,7 @@
   left: 83.94px;
   top: 660.67px;
 }
-.model a fox  {
+.model a {
   color: #8f2424;
   text-align: center;
   font: 400 48.74px "Inter", sans-serif;
@@ -25,4 +25,11 @@
   left: 97.48px;
   top: 495.51px;
   width: 441.35px;
+}
+.Design {
+  width: 379.08px;
+  height: 268.06px;
+  position: absolute;
+  left: 83.94px;
+  top: 660.67px;
 }
