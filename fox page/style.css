@@ -51,7 +51,7 @@
   top: 1149.41px;
 }
 
-.bunny {
+bunny {
   width: 689.1px;
   height:   212.55px;
   position: absolute;
@@ -82,4 +82,11 @@
   position: absolute;
   left: 83.94px;
   top: 660.67px;
+}
+.bunny {
+  width: 243.69px;
+  height: 264px;
+  position: absolute;
+  left: 853px;
+  top: 635.26px;
 }
