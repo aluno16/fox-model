@@ -33,6 +33,7 @@
   left: 83.94px;
   top: 660.67px;
 }
+
 .berry {
   width: 448.12px;
   height: 398.03px;
@@ -41,31 +42,41 @@
   top: 1149.41px;
 
 
-}.kissos {
+}
+.kissos {
   width:  330.34px;
   height: 383.14px;
   position: absolute;
   left: 620.06px;
   top: 1149.41px;
-}.bunny {
+}
+
+.bunny {
   width: 689.1px;
   height:   212.55px;
   position: absolute;
   left: 1072.24px;
   top: 1246.89px;
-}.hutao {
+}
+
+.hutao {
   width:  212.55px;
   height: 270.77px;
   position: absolute;
   left: 1080px;
   top: 1699.26px;
-}.street {
+
+}
+
+.street {
   width: 379.08px;
   height: 268.06px;
   position: absolute;
   left: 48.74px;
   top: 1607.01px;
-}.Design {
+
+}
+.Design {
   width: 379.08px;
   height: 268.06px;
   position: absolute;
